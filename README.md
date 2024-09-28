@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there awesome human-being👋
 
-<!--
-**byBretema/byBretema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Daniel, a Graphics Engineer based on Madrid, Spain.
+> _Brétema_ comes from my native language, and it means fog, and it's one of the first effects you learn in 3D.
 
-Here are some ideas to get you started:
+I code about: performance, image processing, 3D rendering, some web applications, and various tools to enhance the development experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my highlighted projects below, sorted by category:
+
+**🛠️ Tools**
+- [YACPM](https://github.com/byBretema/yacpm) - Helps to simplify external dependencies on a CMake project
+- 
+**🌊 C++**
+- [Vonsai](https://github.com/byBretema/vonsai) - An OpenGL renderer with some abstraction
+- [Bretema Engine](https://github.com/byBretema/bretema) - A _WIP_ translation of Vonsai project to Vulkan (right now: **color tools** + **nice camera** + **push_constants**)
+- [IMOG - Interactive MOtion Graph](https://github.com/byBretema/imog) - Master Thesis exploring how to create transitions between (_skeletal_) animations
+
+**🌍 Web**
+- [Astro + ESLint template](https://github.com/byBretema/astro-eslint-template) - Fast web project initalization with dev tooling ready
