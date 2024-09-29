@@ -6,7 +6,7 @@ I'm Daniel [^1], a Graphics Engineer based on Madrid, Spain.
 
 **🙊 Fluent in :** `C++`, `OpenGL`, `Vulkan`, `Python`, `Js`, also `Spanish` and `English`
 
-**🌳 Exploring :** `Zig`, `Odin`, `Kompute`, `Vulkan for AI`
+**🌳 Exploring :** `Zig`, `Odin`, `Kompute` and `Vulkan for AI`
 
 **🛠️ Dev Tools:**
 - [YACPM](https://github.com/byBretema/yacpm) - Helps to simplify external dependencies on a CMake project
