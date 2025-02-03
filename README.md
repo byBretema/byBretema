@@ -8,7 +8,7 @@ I'm Daniel [^1], a Graphics Engineer based on Madrid, Spain.
 
 **🌳 Exploring :** `Zig`, `Odin`, `Kompute` and `Vulkan for AI`
 
-**🛠️ Dev Tools:**
+**🛠️ Dev Tools**
 - [CCPM](https://github.com/byBretema/ccpm) - Helps to simplify external dependencies on a CMake project
 
 **🧊 Render / Animation**
